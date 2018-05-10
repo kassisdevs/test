@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should return 0 expenses and 0 total 1`] = `
+<div>
+  <p>
+    Viewing 
+     expenses totaling 
+    $0.00
+  </p>
+</div>
+`;
+
+exports[`Should return 3 expense and 3 total 1`] = `
+<div>
+  <p>
+    Viewing 
+    3
+     expenses totaling 
+    $95.00
+  </p>
+</div>
+`;
