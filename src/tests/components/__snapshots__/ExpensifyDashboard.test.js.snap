@@ -2,6 +2,7 @@
 
 exports[`Sould render dashboard two components 1`] = `
 <div>
+  <Connect(ExpenseSammary) />
   <Connect(ExpenseListFilters) />
   <Connect(ExpenseList) />
 </div>
